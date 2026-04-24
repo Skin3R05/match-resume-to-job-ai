@@ -1,0 +1,59 @@
+AI Engineer
+
+About the job
+We are looking for a Senior AI Engineer to join a dynamic and innovative team, working on cutting-edge artificial intelligence projects from proof of concept to production-ready solutions. You will collaborate closely with cross-functional teams and play a key role in shaping AI-driven products that solve complex business challenges.
+
+
+📍 Work Model:
+Hybrid Model (1 to 2 days/week at the client's location, in a region near Lisbon)
+
+
+⏳ Minimum Experience
+At least 5 years of professional experience as an AI Engineer, Machine Learning Engineer, or in a similar role
+
+
+✅ Key Requirements
+Bachelor’s or Master’s degree in Computer Science, Data Science, Artificial Intelligence, or a related field
+Proven experience developing and implementing AI and machine learning solutions
+Strong knowledge of Large Language Models (LLMs) such as GPT
+Solid understanding of machine learning and deep learning techniques and algorithms
+Hands-on experience with frameworks such as TensorFlow, PyTorch, Keras and/or LangChain
+Proficiency in Python and Java
+Experience with data manipulation, analysis and visualization libraries (NumPy, pandas, Matplotlib)
+Familiarity with cloud platforms (AWS, Azure and/or Google Cloud)
+Strong problem-solving skills and ability to translate business requirements into technical solutions
+Excellent communication and collaboration skills
+Fluent English (spoken and written)
+Advanced Portuguese (spoken and written)
+Currently living in Portugal for at least 6 months
+
+
+🧠 Responsibilities
+Collaborate with cross-functional teams to identify business needs and opportunities for AI-driven solutions
+Design and develop proofs of concept (PoCs) using machine learning and deep learning techniques
+Evaluate PoC performance in terms of accuracy, scalability and computational efficiency
+Gather stakeholder feedback and iterate on PoCs to maximise business value
+Analyse results and identify the most promising AI solutions
+Translate successful PoCs into minimum viable products (MVPs)
+Optimise and fine-tune AI models to meet performance and business requirements
+Conduct thorough testing and validation to ensure reliability and usability
+Support the integration of AI capabilities into existing systems or new AI-driven applications
+Stay up to date with industry trends, best practices and emerging AI technologies
+Document processes, methodologies and results clearly for technical and non-technical stakeholders
+Provide technical guidance and mentorship to junior AI engineers
+
+
+🧩 Skills You Highlight:
+Artificial Intelligence
+Large Language Models (LLMs)
+Machine Learning
+Deep Learning
+Python
+Cloud Computing
+Data Analysis
+Model Optimisation
+Problem Solving
+Technical Communication
+
+
+If you thrive in fast-paced environments, enjoy working with LLMs, machine learning and deep learning, and are driven by continuous learning and innovation, this opportunity is for you.

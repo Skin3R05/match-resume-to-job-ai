@@ -1,0 +1,71 @@
+Data Scientist (Remote)
+
+About the job
+About Joveo:
+
+Every company says they're "AI-first." We actually are. Joveo's recruitment 
+
+advertising platform processes millions of hiring decisions through machine 
+
+learning, real-time bidding, and predictive analytics — helping the world's 
+
+largest employers find the right people, faster and fairer. But we're not 
+
+done. Not even close.
+
+
+Role: Data Scientist
+Location: Remote
+
+
+Role Overview:
+
+We are hiring a Data Scientist to extract meaningful insights from Joveo's 
+
+vast datasets and build predictive models that directly improve hiring 
+
+outcomes for employers globally. You will work at the intersection of 
+
+statistics, machine learning, and product — turning data into decisions.
+
+
+Key Responsibilities:
+
+- Design and build predictive models and statistical analyses to solve business problems
+- Conduct exploratory data analysis on large, complex datasets to surface actionable insights
+- Collaborate with product and engineering teams to deploy models into production
+- Define and monitor key metrics, run A/B experiments, and measure impact
+- Communicate findings and recommendations to technical and non-technical stakeholders
+- Maintain data science tooling, notebooks, and reproducible research pipelines
+
+
+Required Skills & Qualifications:
+
+- Strong proficiency in Python and the data science stack (pandas, scikit-learn, NumPy)
+- Solid foundation in statistics, probability, and experimental design
+- Experience with machine learning model development and evaluation
+- Proficiency with SQL and large-scale data querying (BigQuery, Redshift, or Snowflake)
+- Experience designing and analyzing A/B tests and causal inference studies
+- Ability to present complex analysis clearly to non-technical audiences
+
+
+Equal Opportunity Employer:
+
+Joveo is an equal opportunity employer. We are committed to building an 
+
+inclusive workplace and welcome applications from all qualified individuals 
+
+regardless of race, color, ethnicity, nationality, gender, gender identity 
+
+or expression, sexual orientation, age, religion, disability, marital status, 
+
+or any other characteristic protected by applicable law. All hiring decisions 
+
+are made solely on the basis of qualifications, skills, and demonstrated 
+
+ability.
+
+
+If your dream job is one that doesn't fit neatly into a job title — apply.
+
+Joveo. Where AI meets the future of work.

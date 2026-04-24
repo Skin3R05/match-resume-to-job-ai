@@ -1,0 +1,60 @@
+Junior Machine Learning Engineer
+
+About the job
+What you will be doing:
+
+We are building cutting edge solutions that help reveal the truth for a safer world and we are looking for Machine Learning Engineers to help us do this! You will engineer machine learning models, tooling and data pipelines for our linked data ecosystem and work on models to determine whether the people and companies our clients are screening and monitoring are linked to financial crime, and to improve recall while reducing noise in the results.
+
+
+As a Junior Machine Learning Engineer, you will:
+Build/train and productionize machine learning models for your squad
+Build capabilities to monitor model performance and feature drift
+Where appropriate re-use public models to reduce time to value
+Collaborate with other software engineers in a cross functional team to design and implement intelligent services
+Be mentored by senior engineers to design solutions with scale, transparency and ease of operation in mind, and to write maintainable, performant and well-tested code in Python
+Work with mid and senior engineers to integrate ML models into new and existing data pipelines to drive positive impact for CA’s customers, including feature engineering as well as building APIs and consuming and producing event streams as inputs and outputs of models
+
+
+Our Tech Stack:
+
+Our technology stack is designed to run on public cloud architectures, notably AWS and GCP.
+Development is organized around Kotlin and Python for our backend languages and TypeScript/ES6+React for our frontend stack.
+We make substantial use of relational database technologies, notably Postgres, and also use of a distributed SQL database as Yugabyte
+We also use an event-sourced model powered by Kafka for our communication bus and gRPC for our intra-service communication protocol.
+For our data and AI teams, experience in machine learning development and very large-scale columnar data stores (e.g. Apache HBase, Databricks) is key, as well as experience with large-scale data streaming technologies such as Apache Spark, graph databases (e.g. Neo4j, AWS Neptune, TigerGraph)
+We use modern observability solutions built on Grafana Cloud, and deploy our code using ArgoCD
+
+
+We have a strong emphasis on engineering excellence and strive to ship the best possible code and the best possible solutions to our customers.
+
+
+About you:
+
+As a Junior Machine Learning Engineer, you will have:
+Demonstrable python software development skills
+A degree with some mathematical content and formal machine learning education either subsequent to your degree (e.g. as a masters) or as a core part of your degree
+Demonstrable experience of building ML models using a range of machine learning algorithms and techniques either from previous jobs or personal and academic projects 
+
+
+Education:
+
+BSc/BA degree in computer science, engineering or related discipline OR relevant years of experience in required skills. 
+
+
+What’s in it for you?
+
+Equity as we want you to have a part of what we are building
+Private medical insurance designed to keep you ensuring peace of mind while you excel in your career
+Unlimited Time Off Policy - A work-life balance and focus on our well-being are critical to keeping us performing at our best
+We embrace a hybrid approach that requires employees to be in the office for two days a week. We strongly believe that this approach fosters collaboration and enables the building of meaningful relationships
+You will also get a new starter budget to kit out your home office
+Opportunity to work on innovative projects with smart-minded people keen to share their knowledge and continuously improve
+Annual learning budget (prorated based on start date) to drive your performance and career development 
+
+
+About us:
+
+Our mission is to empower every business to eliminate financial crime.
+By harnessing AI, a unified platform, and an extensive partner ecosystem, we help customers turn compliance into a catalyst for growth, operational resilience, and enduring regulatory trust.
+More than 3,000 enterprises across 75 countries rely on our end-to-end platform and the world’s most comprehensive financial crime risk intelligence. With full-stack agentic automation, we help organizations automate up to 95% of KYC, AML, and sanctions reviews, cut onboarding times by 50%, reduce false positives by 70%, and handle 7x more work with the same staff.
+ComplyAdvantage is headquartered in London and has global hubs in New York, Lisbon, Singapore, and Cluj-Napoca. It is backed by Balderton Capital, Index Ventures, Ontario Teachers’ Pension Plan, Goldman Sachs, and Andreessen Horowitz. Learn more about compliance re-engineered for the age of AI at complyadvantage.com.

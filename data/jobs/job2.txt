@@ -1,0 +1,30 @@
+Data Scientist
+
+About the job
+About Us: At Joveo, we are on a mission to deliver a job for everyone. As the global leader in programmatic job advertising, our Data Science team operates like a hybrid of a librarian and a Swiss army knife—leveraging gargantuan data sets and cutting-edge AI to match the right talent to the right roles.
+
+
+The Role (TL;DR): We are looking for a Data Scientist to join our cross-functional pods. You will build and deploy state-of-the-art NLP models (like SentenceBERT) and predictive algorithms to optimize job embeddings, occupation classification, and applicant forecasting.
+
+
+What You’ll Do:
+
+Develop and fine-tune language-agnostic embedding models to process millions of job postings.
+Work with transfer learning models and predictive techniques (XGBoost, gradient boosting) to lower Cost-Per-Applicant (CPA) for our clients.
+Partner directly with Product Managers and Software Engineers in decentralized, semi-autonomous pods to push code into production.
+Identify opportunities to use AI/ML to eliminate bias in recruitment advertising.
+
+
+What You Bring:
+
+Proven experience in building machine learning models, specifically in NLP and predictive analytics.
+Proficiency in Python and relevant libraries (NumPy, Pandas, SciPy, Gensim).
+Experience with big data frameworks and deploying models into cloud environments.
+A "can-do" mindset and a passion for solving complex, real-world problems.
+
+
+Why Joveo?
+
+Impact: Your code will directly help millions of people find jobs.
+Flexibility: Remote-first culture with flexible working hours.
+Growth: Generous learning and development budgets.

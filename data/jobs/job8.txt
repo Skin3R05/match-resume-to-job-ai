@@ -1,0 +1,81 @@
+Data Scientist Lead
+
+About the job
+Lead Data Scientist (Marketing Mix Modeling)
+
+
+
+Who are we?
+
+Amaris Consulting is an independent technology consulting firm providing guidance and solutions to businesses. With more than 1,000 clients across the globe, we have been rolling out solutions in major projects for over a decade—this is made possible by an international team of 7,600 people spread across 5 continents and more than 60 countries.
+Our solutions focus on four different Business Lines: Information System & Digital, Telecom, Life Sciences and Engineering. We’re focused on building and nurturing a top talent community where all our team members can achieve their full potential.
+Amaris is your steppingstone to cross rivers of change, meet challenges and achieve all your projects with success.
+
+
+Unleash your full potential, both professionally and personally.
+
+
+Overview
+
+We are looking for an experienced Lead Data Scientist to drive advanced analytics initiatives, with a strong focus on Marketing Mix Modeling (MMM).
+This role combines leadership, business understanding, and technical depth, acting as a key bridge between business stakeholders and data teams, while ensuring high-quality delivery and alignment across the organization.
+
+
+Key Responsibilities
+
+Lead and coordinate a team of ~4 Data Scientists, ensuring alignment, productivity, and delivery quality
+Align expectations with business stakeholders and translate needs into actionable data science initiatives
+Act as the main point of contact between the data science team and the business
+Collaborate closely with the Product Owner (PO) to ensure roadmap execution
+Coordinate with other data teams to ensure consistency and integration across initiatives
+Design, oversee, and validate Marketing Mix Models (MMM) and other advanced analytical solutions
+Ensure models are interpretable, scalable, and aligned with business impact
+Stay close to the technical work: review code, guide implementation, and step in when needed (without being fully hands-on)
+
+
+Required Skills & Experience
+
+10+ years of experience in Data Science or Advanced Analytics
+Proven experience in Marketing Mix Modeling (MMM)
+Strong understanding of both mathematical modeling and business context
+Experience leading and mentoring teams (3–5 people)
+
+
+Strong experience with:
+Python
+Pyomo (or similar optimization frameworks)
+Gurobi (or other optimization solvers)
+GitHub
+
+
+Ability to understand and review code while maintaining a leadership role
+Strong stakeholder management and communication skills
+Experience working in cross-functional and distributed environments
+
+
+Nice to Have
+
+Experience in large-scale marketing or commercial analytics environments
+Background in optimization or econometrics
+Experience working with multiple data teams in complex organizations
+
+
+Contract Details
+
+Duration: Initial 6 months (with potential for further extension)
+Start date: ASAP (critical urgency)
+Location: Flexible / remote
+
+
+Ideal Profile
+
+A senior profile who can lead, structure, and connect—someone who understands the math, speaks the language of the business, and can guide a team while staying close enough to the technical side to challenge and support effectively.
+
+
+🚀 Why us? 🚀
+Join our dynamic team of talented individuals and experience a world of growth and opportunities. Here's what we offer:
+Rapid growth with a tailored career path and salary evaluation; 70% of our senior leaders started at entry level
+Enhance your skills with our Tech Academy catalog, Udemy E-learning Platform, Language Sessions, webinars, and workshops
+Control your training with an annual personal budget and company-paid certifications
+Enjoy flexible policies, remote work options, and fantastic social benefits like transit and restaurant tickets, kindergarten support, and private health insurance
+Benefit from our WeCare program, supporting employees in critical situations

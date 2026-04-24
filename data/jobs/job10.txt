@@ -1,0 +1,61 @@
+Data Analyst
+
+About the job
+Your connection with Aubay starts in the following lines:
+
+
+
+Aubay Portugal is a French multinational company that has been operating in the country since 2007, with offices in Lisbon and Porto. We are a leading technology consultancy with a presence in seven European Union countries, specializing in the management, implementation, development and maintenance of information systems.
+With more than 150 active partners, we operate in strategic sectors such as banking, insurance, automotive, aviation, telecommunications, services and energy, driving innovation and digital transformation.
+Excellence, proximity and innovation are the pillars that distinguish us and enable us to support companies in building technological solutions that make a difference.
+
+
+What are we looking for?
+
+Bachelor's Degree in Computer Engineering, Data Science or related;
+Minimum of 4 years of experience as a Data/Digital Analyst;
+Strong command of PySpark, Databricks and SQL (mandatory);
+Extensive experience with Power BI (mandatory);
+Fluency in English (B2 level or higher);
+Eligibility to work in Portugal.
+
+
+What do we have to offer you?
+
+Comprehensive health insurance, including dental coverage;
+Feedback&Coffee – our integrated performance management system, with regular feedback sessions and a structured Career Progression Model;
+Aubay Training Academy, designed for your development: technical and behavioural training (in-class and e-learning), Meet&Techs, Webinars, Mentoring and Technology Centers;
+Events and team building activities that strengthen team spirit and promote closeness;
+Digital platform for mental health and emotional well-being, with free psychology consultations, so you can take care of yourself at any time;
+Health and well-being programme, with workshops and initiatives for our employees and other activities open to the community;
+We grow with you and your family - we offer a Mini-Aubilous Kit when your children are born and annual support for school supplies, from pre-school to higher education;
+Language platform, with conversation classes in 12 languages;
+Working model: hybrid/remote based in Portugal/on-site.
+
+
+What makes us different?
+
+Our organisational culture is based on solid values: commitment, excellence, team spirit, well-being, happiness and empathy;
+We value and recognise those who are part of our history, with referral awards and a special birthday gift;
+We believe in authenticity: we don't have a dress code, because what matters is talent and attitude;
+We promote closeness and an informal environment;
+Here, you will grow in good company, because we believe that professional development also means sharing experiences and building relationships.
+
+
+Your next adventure starts here!
+
+
+
+If you can see yourself growing with us, take the first step and send your CV to:
+dtbaptista@aubay.pt.
+
+
+The future is waiting for you — and so are we!
+
+
+Personal Data collected by AUBAY PORTUGAL as Data Controller, regarding the identification, contact and professional capabilities of the candidates, in the present procedure, will be processed for the application analysis, having in consideration that the processing is conducted in order to to take the steps, at the request of the data subject, prior to entering into a contract;
+Personal data sent through the present application will be kept by Aubay during the application procedure and will remain stored whilst updated (for two years period).
+The collected data might be transferred or include other processing activities, as long as the data subject is informed, in the occurrence of a standard application and selection procedure, for the compliance of legal obligations for the time required by law.
+For any queries or request regarding personal data protection rights, the Data Subject may contact AUBAY PORTUGAL’s headquarters in Avenida Duque D`Ávila, nº46 em Lisboa or use the DPO’s e-mail - dpo@aubay.pt. The Data Subject also has the right to file a complaint with the National Data Protection Authority – www.cnpd.pt.
+(please do not include data regarding racial or ethnical origins, political opinions, religion, philosophy, biometrical data, health data, sexual life and orientation, or relating to criminal convictions and offences.).
+

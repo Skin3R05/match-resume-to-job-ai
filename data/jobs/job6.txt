@@ -1,0 +1,29 @@
+Data Scientist
+
+About the job
+We are looking for a Senior Data Scientist / AI Engineer to design and deliver end-to-end Machine Learning and AI solutions, from data analysis to model deployment.
+This role follows a hybrid model based in Lisbon, and we welcome candidates open to relocating to Lisbon.
+
+
+Key Responsibilities
+
+Design, develop, and deploy ML/AI solutions (data preparation, modeling, evaluation).
+Work closely with stakeholders to identify use cases and translate them into technical solutions and roadmaps.
+Build and optimize data pipelines (ETL) using SQL and Python.
+Support deployment, monitoring, and maintenance of models in production.
+Collaborate with cross-functional teams and promote data-driven decision making.
+Track and report project progress using tools like Jira and Confluence.
+Requirements
+
+6+ years of experience in Data, Analytics, or AI roles.
+Strong knowledge of Machine Learning, statistics, and NLP techniques.
+Proficiency in Python (or similar languages) and SQL.
+Experience with ML frameworks (e.g. scikit-learn, TensorFlow, PyTorch).
+Familiarity with CI/CD tools (Git, Jenkins).
+Strong communication and stakeholder management skills.
+Fluent English (C1+).
+Additional Information
+
+📍 Location: Lisbon
+🏢 Work model: Hybrid (50%)
+🌍 Open to candidates willing to relocate to Lisbon

@@ -1,0 +1,42 @@
+Data Scientist
+
+About the job
+Data Scientist – RecSys Remote, Portugal | Product Department
+
+
+
+About the role
+Our client - they're looking for a Data Scientist specialising in Recommendation Systems to join their global Data Science team — building large-scale, production-grade RecSys that impact millions of players worldwide, working alongside Data Scientists, Engineers and Data Engineers.
+
+
+Key Responsibilities
+Design, implement and optimise end-to-end recommendation pipelines (data ingestion to model inference)
+Build and maintain scalable ETL pipelines
+Develop, evaluate and continuously improve ML models for RecSys
+Research and prototype SOTA approaches to improve recommendation quality
+Integrate multi-modal data (behavioural, transactional, contextual) into models
+Design and analyse A/B tests; build dashboards to track model metrics and business KPIs
+Collaborate with Data Engineers, Software Engineers and stakeholders
+
+
+Required Skills
+Strong Python (production), including Pandas, Polars, NumPy, scikit-learn, PyTorch, TensorFlow, JAX, Hugging Face
+End-to-end ML deployment on cloud platforms (Azure, GCP or AWS) — ETL to monitoring
+Deep learning–based recommender systems (next-item prediction, sequential models)
+SQL and NoSQL databases (PostgreSQL, Redshift, Snowflake, BigQuery, MongoDB, Cassandra)
+Unit/integration testing (Pytest), CI/CD, Docker
+
+
+Bonus Points For
+Large-scale RecSys (candidate generation, ranking, retrieval, personalisation)
+Publications in deep learning at relevant conferences
+Transformer-based models / LLMs applied to RecSys
+Distributed training and big data tech (Spark, Kafka, Databricks)
+Multi-modal models (text, images, audio)
+
+
+What They Offer
+Competitive comp based on experience
+Remote-friendly, flexible hours
+Work on state-of-the-art ML infrastructure at scale
+Open-source contribution opportunities

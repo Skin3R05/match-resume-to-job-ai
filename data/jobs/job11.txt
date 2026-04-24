@@ -1,0 +1,27 @@
+Junior Data Engineer (AWS)
+
+About the job
+We are looking for a Junior Data Engineer with around 1 year of experience to support the development and maintenance of data pipelines and cloud-based data solutions. This role is ideal for someone proactive, dedicated, and eager to grow in a fast-paced data environment.
+
+
+Responsibilities
+Develop and maintain data pipelines using Python
+Support ETL/ELT processes and data ingestion from multiple sources
+Work with AWS services such as S3, Lambda, and Glue
+Ensure data quality, reliability, and proper documentation
+Collaborate with data engineers, analysts, and other stakeholders
+
+
+Requirements
+~1 year of experience in data engineering or a similar role
+Strong knowledge of Python and SQL
+Experience with Cloud
+Familiarity with Git and data pipeline concepts
+
+
+Soft Skills
+Proactive and self-driven
+Dedicated and responsible
+Strong problem-solving and analytical thinking
+Good communication and teamwork skills
+Willingness to learn and continuously improve

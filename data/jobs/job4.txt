@@ -1,0 +1,120 @@
+Data Scientist
+
+About the job
+Data Scientist-Portugal
+
+Remote but must live in Portugal
+
+About Tillster
+
+Headquartered in the USA, Tillster is the global leader in digital ordering and customer engagement solutions. For over a decade we have developed revolutionary self-service, ordering and payments solutions – for mobile, tablet, online, kiosk, call center, and more – creating personalized interactions based on consumer preferences, language, and currency. Our platform is compatible with 15+ unique POS systems, representing over 90% coverage in multi-unit restaurants. We offer one platform: one scalable, enterprise class solution – to create world-class digital engagement solutions. Our mission and passion are one in the same: Empower restaurants and consumers to engage and transact anywhere, anytime, and from any device - one consumer at a time, one order at a time, billions of times over. In doing so, together we are transforming e-commerce in restaurants and making the till grow for Tillster and our customers.
+
+Are you a passionate data scientist with a knack for data?
+
+Job Description
+
+We are seeking an experienced and highly skilled Data Scientist with a strong background in MLOps, Artificial Intelligence (AI), and extensive experience deploying ML models in production environments for large-scale data across diverse clients. The ideal candidate will have hands-on expertise in the end-to-end lifecycle of machine learning models—from development and deployment to monitoring and optimization. You will work closely with cross-functional teams, including engineering, data, and product, to integrate AI-powered models into broader software platforms and ensure high performance across multi-client applications. A key focus will be on enhancing and maintaining our Recommender System.
+
+In addition to machine learning, the candidate will focus on enhancing the Recommender System, while also contributing to AI-powered decision-making systems across our platform. This includes helping our systems make smarter, real-time decisions based on complex, multi-source data inputs such as customer data, weather, location, and time of day. Though the primary responsibility is with the Recommender System, contributions to other areas like menu and web/mobile/kiosk systems may occur as part of broader AI initiatives.
+
+Responsibilities
+
+Drive the design, development, and deployment of machine learning models, with an emphasis on the Recommender System, ensuring scalability and robustness for handling large datasets and multiple clients.
+Collaborate with data engineers and ML engineers to implement MLOps best practices, ensuring seamless integration of models into production pipelines, including both batch and real-time predictions, automated model retraining, versioning, and monitoring.
+Oversee the operationalization of models, including real-time predictions, batch processing, and retraining pipelines, especially for the Recommender System.
+Monitor model performance post-deployment, implementing metrics and alerts to track model drift, accuracy degradation, and data changes.
+Build and maintain continuous integration (CI) and continuous deployment (CD) pipelines to ensure models are rapidly and reliably updated in production.
+Ensure the model serving infrastructure is optimized for performance, resource utilization, and cost efficiency, leveraging GCP.
+Work closely with product managers and stakeholders to define and refine ML model objectives, translating business needs into model requirements.
+Implement automated testing, validation, and documentation of models to ensure they meet performance and accuracy standards before deployment.
+Act as a key technical advisor on AI and ML initiatives, working with the team to share best practices in AI, MLOps, and model deployment, while contributing to the AI-powered decision-making systems to integrate customer data with external factors (e.g., weather, location, and time of day).
+Use Large Language Models (LLMs), such as Gemini, to enhance and develop AI-driven features within our platform.
+Work collaboratively with cross-functional teams, ensuring teamwork and communication are key aspects of problem-solving and project success.
+
+Required Skills
+
+Bachelor’s or Master’s degree in a quantitative discipline such as Data Science, Computer Science, Engineering, or a related field;.
+Minimum of 5+ years of experience as a Data Scientist, with at least 2+ years of experience in MLOps and ML model deployment at scale.
+Proven expertise in deploying machine learning models for large-scale production environments and monitoring their performance for multiple clients or business units.
+Hands-on experience with MLOps tools such as Airflow, and cloud-based solutions (GCP Vertex AI).
+Proficiency in Python for deep learning model development and deployment (mandatory).
+Proven experience with Deep Learning and Reinforcement Learning for building machine learning models at scale (mandatory).
+Experience with NoSQL databases (e.g., MongoDB) and JSON for handling Big Data and real-time applications.
+Experience working with Recommender Systems.
+Experience working with TensorFlow Recommender System (TFRS) and Two Towers architecture is a plus.
+Experience with model monitoring, performance tracking, and A/B testing in production environments to ensure continuous improvement and accuracy.
+Expertise in implementing scalable and automated CI/CD pipelines for machine learning models, including model versioning and retraining workflows.
+Strong knowledge of containerization and orchestration tools such as Docker and Kubernetes.
+Experience working with Large Language Models (LLMs), such as Gemini or ChatGPT-4, to build intelligent systems (mandatory).
+Understanding of data engineering concepts, including ETL pipelines, data lakes, and big data platforms (BigQuery, Snowflake, Redshift).
+Strong teamwork and collaboration skills, with a focus on working across departments to achieve project success.
+
+Nice To Have
+
+Experience with multi-tenant ML platforms, serving models to multiple clients with different data and needs (preferred).
+Familiarity with DevOps and cloud infrastructure, especially utilizing serverless technologies such as GCP Functions or AWS Lambda.
+Experience working with natural language processing (NLP) or computer vision models in production.
+
+Thriving at Tillster
+
+As a member of Tillster, you will embody our core values:
+
+ Put Customers First: Prioritize the needs and satisfaction of our customers in all decisions and actions appropriate to Tillster’s stage of development, resources, and stated goals.
+ Collaborate: Work together effectively, leveraging diverse perspectives to achieve common goals.
+ Innovate: Embrace creativity and pursue new ideas to drive progress and improvement.
+ Operate from Data: Use strong critical thinking skills to make informed decisions based on accurate and relevant data.
+ Drive Results: Focus on achieving tangible outcomes and delivering high performance.
+ Own It: Take responsibility for your actions and the success of your work.
+ Be Passionate and Have Fun: Bring enthusiasm to your work and enjoy the journey.
+
+The Interview Process
+
+Recruiter interview with a Talent Acquisition Specialist
+Interview with Data Science Team
+Final interview with our Data Science Team Leader
+
+Making a Difference in the Tillster Way
+
+Our business and product mission is to empower restaurants and consumers globally; by empowering, supporting, and nurturing the people who are part of the global Tillster team. We are committed to fostering an inclusive and diverse work environment where every team member is respected, empowered, and encouraged to grow. To make this a reality, Tillster is dedicated to embracing diversity in all forms and is proudly an equal opportunity employer. We do not discriminate based on race, color, religion, national origin, gender identity, sexual orientation, age, family/parental status, marital status, veteran status, disability, or any other protected status.
+
+Follow Us On
+
+Tillster: https://www.tillster.com/
+
+Tillster Careers: https://www.tillster.com/careers
+
+LinkedIn: https://www.linkedin.com/company/tillster/
+
+Pay And Benefits (PORTUGAL)
+
+Compensation competitive to market and geographical location DOE
+Meal allowance for each day worked available through meal card.
+Home/Office allowance reimbursement per calendar month, pro-rated based on employment start date.
+Health insurance: Tillster pays the premium for employee private health insurance. Employees have the option to add their spouse/dependents at the employee’s cost.
+Holidays: Up to 20 federal and local/municipal holidays in accordance with applicable Portuguese Labour laws, dependent on your employment start date.
+Vacation: Up to 22 days of vacation every holiday year, pro-rated based on employment start date.
+Education, Learning & Development: We offer Udemy Learning courses; and ongoing learning and development opportunities.
+
+Tillster is proudly an Equal Opportunity Employer
+
+No Visa Sponsorship
+
+Principals only – no Agencies or calls please
+
+
+
+Tillster cares about the safety of all our employees—even those we’ve yet to hire
+
+RECRUITMENT FRAUD WARNING
+
+We want to help you stay safe during your job search. Tillster will never:
+
+Request personal/financial information during recruitment
+Require payment or fees
+Ask for sensitive PII before a formal job offer
+Collect information via email or phone (only through secure channels)
+Extend offers without in-person or virtual interviews
+
+Red flags: All official communications come from @tillster.com addresses only
+
+Suspicious activity? Report immediately to Tillster HR, Legal, or Cyber Security teams.

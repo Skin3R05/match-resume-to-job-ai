@@ -1,0 +1,58 @@
+Senior Data Scientist
+
+About the job
+The creative mind behind every project.
+
+Put your skills to the test to build solutions that continue to shape the world we live in!
+
+
+About Us 
+
+Ascent has recently been acquired by Acuity Analytics. This is both a significant milestone for us and a tremendous opportunity for you. Acuity Analytics is a business with a strong global reputation, an impressive client base and ambitious growth plans. We deliver deep insights and domain-led digital transformation to high-growth and heavily regulated organisations. To our customers, we bring a partnership that provides the talent, technology and capability to enhance performance and operational efficiency.
+
+
+About the role
+
+We are looking for a Senior Data Scientist to support our pharmaceutical clients in delivering high quality, insight driven analytics across complex clinical and research datasets.
+
+
+In this role, you will work closely with stakeholders across clinical, commercial, and analytics teams, acting as a trusted technical expert. You will design, develop, and deliver advanced analytics solutions using modern cloud based data platforms, with a strong focus on clinical trial data and pharma specific data sources.
+
+
+This is a highly consultative role requiring strong analytical depth, technical expertise, and the ability to translate complex data into actionable insights for varied stakeholder groups.
+Skills and experience required
+
+
+Core skills
+
+• Strong proficiency in Python and/or R (essential)
+• Advanced SQL skills with experience querying and transforming complex datasets
+• Proven experience working with Databricks in production analytics environments
+• Strong analytical mindset with the ability to work with large, complex data sets
+• Experience communicating insights clearly to non technical stakeholders
+Domain and platform experience
+
+• Hands on experience within the pharmaceutical industry, ideally supporting clinical trials, trail design and biostatistics.
+• Strong understanding of clinical trial data sources, such as DQS, Citeline, or similar platforms
+• Experience working with Azure based data and analytics solutions
+• Familiarity with regulated data environments and high data quality standards
+Soft skills
+
+• Strong stakeholder management and relationship building skills
+• Ability to balance technical delivery with business and domain context
+• Confident communicator, able to explain complex analytical outputs in a clear and compelling way
+• Collaborative and consultative approach to problem solving
+What you will do
+
+• Work closely with pharma and clinical stakeholders to understand analytical requirements
+• Build and maintain scalable analytics solutions using Python/R, SQL, and Databricks
+• Analyse and interpret complex clinical trial and pharma datasets
+• Integrate and leverage clinical data sources such as DQS and Citeline
+• Deliver insights that support evidence based decision making across clinical and business teams
+• Support best practices in data quality, governance, and reproducibility
+• Act as a trusted analytics partner within multi disciplinary client teams
+
+
+Why join us 
+
+People are at the Heart of our Business. By investing in people, we achieve exceptional results for our clients and create new opportunities for our teams to thrive. Check out this page for more details.

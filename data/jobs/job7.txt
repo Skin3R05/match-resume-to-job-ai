@@ -1,0 +1,38 @@
+Data Scientist
+
+About the job
+About Us
+
+Prime Insights is a Sweden-based technology company reaching millions of diverse users through our proprietary Market Research Panel. Beyond our world-class Market Research Panel, we are scaling our Offerwall and Play-to-Earn (P2E) ecosystems. We connect millions of users to games and products they love, leveraging sophisticated targeting to ensure high engagement for advertisers and maximum rewards for our users.
+As part of our Central Data Team, you will be the backbone of our intelligence, building the models and systems that power our international community.
+
+
+We are looking for a Data Scientist who can build predictive models, recommendation systems, and experimentation frameworks to improve user engagement, LTV, and fraud detection in a high-scale product environment. Experience in AdTech, Gaming, or similar industries is a strong plus.
+
+
+
+What You’ll Do
+
+Predictive Targeting & Personalization: Build recommendation engines that match the right offer (game/survey) to the right user at the right time to maximise user engagement.
+User Lifetime Value (LTV) Modeling: Develop models to predict long-term user value and churn, allowing us to optimize user acquisition spend.
+Fraud & Anomaly Detection: Guard the ecosystem by building real-time systems to detect "farming," bot behavior, and VPN spoofing.
+Statistical Rigor: Serve as the internal consultant for experimentation (A/B testing) design, ensuring results are statistically significant and unbiased.
+Advanced Analytics: Move beyond descriptive reporting into diagnostic and predictive analytics.
+
+
+What We’re Looking For
+
+3+ years of experience in Data Science, ideally within AdTech, Gaming, or FinTech.
+Core Tech Stack: Expert proficiency in Python (Scikit-learn, XGBoost/LightGBM/CatBoost, PyTorch) and Advanced SQL.
+AdTech Knowledge: Familiarity with concepts like CPM, ROAS, Attribution, and Post-back loops.
+Strong communication skills: Able to clearly explain findings, assumptions, and tradeoffs to both technical and non-technical audiences.
+Experimental Design: Deep understanding of A/B testing in high-traffic environments where "noise" is high.
+Product Curiosity: You don’t just build models; you want to understand the psychology of why a user clicks one game over another.
+
+
+How to Apply
+
+Use the Easy Apply button.
+❗Important: We are not considering freelancers working on multiple projects simultaneously. This is a full-time position for a dedicated Data Scientist who is ready to commit to a single product ecosystem and contribute meaningfully to its long-term success.
+
+
