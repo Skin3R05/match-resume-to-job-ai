@@ -2,12 +2,10 @@ from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 
-# Load embedding model (this converts text → vectors)
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-def create_embeddings(chunks):
-    texts = [chunk.page_content for chunk in chunks]
+def create_embeddings(texts):
     embeddings = model.encode(texts)
     return texts, embeddings
 
@@ -23,5 +21,4 @@ def search(query, model, index, texts, k=3):
     query_embedding = model.encode([query])
     distances, indices = index.search(query_embedding, k)
 
-    results = [texts[i] for i in indices[0]]
-    return results
+    return [texts[i] for i in indices[0]]
