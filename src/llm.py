@@ -1,17 +1,19 @@
 from transformers import pipeline
 
-# Load model (this was missing or removed)
-generator = pipeline("text-generation", model="gpt2")
+# Better instruction-tuned model (much improved)
+generator = pipeline(
+    "text-generation",
+    model="tiiuae/falcon-rw-1b"
+)
 
 
 def generate_answer(query, retrieved_docs):
     context = "\n".join(retrieved_docs)
 
     prompt = f"""
-You are a helpful assistant.
+You are a professional AI assistant for resume-job matching.
 
-Use ONLY the information from the context below to answer the question.
-Be concise and list key skills clearly.
+Use ONLY the context below.
 
 Context:
 {context}
@@ -19,13 +21,14 @@ Context:
 Question:
 {query}
 
-Answer (bullet points):
+Answer in clear bullet points:
 """
 
     result = generator(
         prompt,
-        max_new_tokens=150,
-        do_sample=False
+        max_new_tokens=200,
+        do_sample=True,
+        temperature=0.3
     )
 
     return result[0]["generated_text"]
