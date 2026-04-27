@@ -4,8 +4,10 @@ Skills:
 - Python
 - Machine Learning
 - Pandas
+- NumPy
 - SQL
 
 Experience:
-- Built ML models
-- Worked on data analysis
+- Built machine learning models
+- Worked on data analysis projects
+- Familiar with Scikit-learn
