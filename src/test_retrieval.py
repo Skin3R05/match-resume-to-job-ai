@@ -1,21 +1,24 @@
 from load_data import load_job_descriptions, chunk_documents
 from vector_store import create_embeddings, create_faiss_index, search, model
+from llm import generate_answer
 
 # Load + chunk
 jobs = load_job_descriptions("../data/jobs")
 chunks = chunk_documents(jobs)
 
-# Convert to embeddings
+# Embeddings
 texts, embeddings = create_embeddings(chunks)
 
-# Create vector DB
+# Vector DB
 index = create_faiss_index(embeddings)
 
-# Test query
+# Query
 query = "What skills are required for a data scientist?"
 
-results = search(query, model, index, texts)
+retrieved_docs = search(query, model, index, texts)
 
-print("\nTop results:\n")
-for r in results:
-    print("-", r[:200], "\n")
+# Generate answer
+answer = generate_answer(query, retrieved_docs)
+
+print("\nFinal Answer:\n")
+print(answer)
