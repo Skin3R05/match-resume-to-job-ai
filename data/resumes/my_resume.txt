@@ -1,0 +1,11 @@
+Name: Saba Matcharashvili
+
+Skills:
+- Python
+- Machine Learning
+- Pandas
+- SQL
+
+Experience:
+- Built ML models
+- Worked on data analysis
