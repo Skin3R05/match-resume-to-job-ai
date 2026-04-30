@@ -9,17 +9,11 @@ st.set_page_config(page_title="Resume Matcher AI", layout="centered")
 st.title("🧠 Resume–Job Matching AI (RAG System)")
 
 
-# ----------------------------
-# CACHE JOB DATA (IMPORTANT)
-# ----------------------------
 @st.cache_data
 def get_jobs():
     return load_job_descriptions()
 
 
-# ----------------------------
-# CACHE VECTOR STORE (CRITICAL PERFORMANCE FIX)
-# ----------------------------
 @st.cache_resource
 def build_index():
     jobs = get_jobs()
@@ -55,15 +49,11 @@ if st.button("Search"):
         st.warning("Please enter job requirements")
         st.stop()
 
-    # Step 1: Retrieve relevant job chunks
     results = search(query, model, index, texts)
 
-    # Step 2: Generate AI answer
     answer = generate_answer(query, results)
 
-    # ----------------------------
-    # OUTPUT
-    # ----------------------------
+
     st.subheader("📊 AI Analysis")
 
     st.markdown("### 🧠 Answer")

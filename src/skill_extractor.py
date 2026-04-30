@@ -1,6 +1,5 @@
 import re
 
-# simple skill list (we can expand later)
 SKILLS = [
     "python", "sql", "machine learning", "deep learning",
     "tensorflow", "pytorch", "scikit-learn",

@@ -1,6 +1,5 @@
 from transformers import pipeline
 
-# Better instruction-tuned model (much improved)
 generator = pipeline(
     "text-generation",
     model="tiiuae/falcon-rw-1b"

@@ -1,6 +1,5 @@
 import os
 
-# Always anchor to project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JOBS_PATH = os.path.join(BASE_DIR, "data", "jobs")
 
